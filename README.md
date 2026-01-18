@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd electronics-store
+   cd electronic-store
    ```
 
 3. Install the dependencies:
