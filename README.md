@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Achrafka00/FrontEnd-Electronic-store-
+   git clone https://github.com/AchrafKaaouarda/FrontEnd-Electronic-store-
    ```
 
 2. Navigate to the project directory:
